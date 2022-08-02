@@ -1,8 +1,10 @@
-# awesome-travels
+# blessed-adegu sessions
 
 > This is my first Microverse capstone project.
 
 > The project is a counselling webiste .
+
+> Ideas obtained from blessed  adegu motivations
 
 
 
