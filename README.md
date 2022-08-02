@@ -24,7 +24,7 @@
 -
 - GitHub: [@vigehi](https://github.com/vigehi)
 
-[View Live]
+[View Live](https://vigehi.github.io/project1/)
 
 ## To show your support, kindly
 
