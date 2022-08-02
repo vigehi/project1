@@ -20,7 +20,7 @@
 👤 **Edith Oga**
 
 -
-- GitHub: [@richardoppiyo](https://github.com/vigehi)
+- GitHub: [@vigehi](https://github.com/vigehi)
 
 [View Live]
 
