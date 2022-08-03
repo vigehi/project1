@@ -21,7 +21,6 @@
 
 👤 **Edith Oga**
 
--
 - GitHub: [@vigehi](https://github.com/vigehi)
 
 [View Live](https://vigehi.github.io/project1/)
