@@ -15,7 +15,7 @@ body {
 }
 
 .top-main {
-  background-image: url(./images/main-mobile-bg.png);
+  background-image: url(../images/main-mobile-bg.png);
   background-repeat: no-repeat;
   width: 100%;
   height: inherit;
@@ -88,7 +88,7 @@ header {
 }
 
 .middle-section {
-  background-image: url(./images/program-bg.jpg);
+  background-image: url(../images/program-bg.jpg);
   text-align: center;
 }
 
@@ -195,7 +195,7 @@ header {
   }
 
   .top-main {
-    background-image: url(./images/desktop-bg.png);
+    background-image: url(../images/desktop-bg.png);
     background-repeat: no-repeat;
   }
 
