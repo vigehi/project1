@@ -32,8 +32,8 @@ body {
 #mynav {
   width: 48vh;
   opacity: 1;
-  background-color: #fff;
-  color: #ec5242;
+  background-color: #ec5242;
+  color: #fff;
   height: 500px;
   margin-top: 7px;
 }
