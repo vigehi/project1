@@ -1,3 +1,4 @@
+//Functions
 const btn = document.querySelector('#show');
 const btnclose = document.querySelector('#hide');
 const showMoreBtn = document.querySelector('#showmore');
