@@ -1,12 +1,6 @@
-# blessed-adegu sessions
+# blessed-adegu couselling sessions
 
-> This is my first Microverse capstone project.
-
-> The project is a counselling webiste .
-
-> Ideas obtained from blessed  adegu motivations
-
-> The project has different sections which includes welcome header, main servicesand programs offered, contact us email and speakers.
+> The project has different sections which includes welcome header, main servicesand programs offered, contact us email and speakers. Ideas obtained from blessed  adegu motivations
 
 
 
