@@ -372,7 +372,7 @@ input:checked + .inner {
 
 @media screen and (min-width: 768px) {
   .middle-section-container {
-    padding-left: 20px;
+    padding-left: 10px;
   }
 
   .middle-section-head {
