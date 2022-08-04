@@ -69,14 +69,6 @@ header {
   font-family: var(--font-family-coco);
 }
 
-.header-text-b {
-  font-size: 35px;
-  font-weight: bolder;
-  line-height: 50px;
-  color: var(--main-orange-color);
-  font-family: var(--font-family-coco);
-}
-
 .header-tect-c-div {
   border: 3px solid #fff;
   margin: 10px;
@@ -361,7 +353,6 @@ header {
   margin: 50px 5px 10px 5px;
 }
 
-/* for larger screens */
 @media screen and (min-width: 768px) {
   .top-program-2b {
     width: 40%;

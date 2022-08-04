@@ -25,6 +25,10 @@
 
 [View Live](https://vigehi.github.io/project1/)
 
+
+## Loom video
+[View loom video](https://www.loom.com/share/a3851b9e7d7443d69f3722ea30bda7ee)
+
 ## To show your support, kindly
 
 Give a ⭐️ if you like this project!

@@ -1,11 +1,8 @@
-//Functions
 const btn = document.querySelector('#show');
 const btnclose = document.querySelector('#hide');
 const showMoreBtn = document.querySelector('#showmore');
 const featuredSpeakersSect = document.querySelector('#dyna-bottom-section');
 
-
-// To open the menu bar
 function display() {
   document.getElementById('show').style.display = 'none';
   document.getElementById('hide').style.display = 'flex';
@@ -29,8 +26,6 @@ function toggle() {
 btn.addEventListener('click', display);
 btnclose.addEventListener('click', close);
 showMoreBtn.addEventListener('click', toggle);
-
-
 
 const featuredSpeakers = [
   {
