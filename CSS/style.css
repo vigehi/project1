@@ -384,6 +384,10 @@ input:checked + .inner {
     max-height: 800px;
   }
 
+  .patners {
+    align-items: center;
+  }
+
   .inner-middle-section-container {
     text-align: center;
     margin-left: 100px;
@@ -464,15 +468,36 @@ footer {
   }
 
   .footer-container {
-    text-align: center;
-    margin: 40px auto;
+    align-items: center;
     width: 95%;
-    margin-left: 60px;
+    margin-left: 15%;
+    margin-right: 20%;
   }
 
   #dyna-bottom-section {
     display: flex;
     flex-wrap: wrap;
     height: auto;
+  }
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  margin: 0px auto;
+}
+
+@media screen and (max-width: 768px) {
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .footer-img {
+    width: 100px;
+    height: 40px;
   }
 }

@@ -238,17 +238,48 @@ header {
   margin: 15px auto;
 }
 
-.top-program-2b {
-  background-image: url(../images/3.jpeg);
-  opacity: 0.6;
+.h {
+  margin-bottom: 100px;
+}
+
+.top-program-2a {
+  background-image: url(../images/2020.png);
+  background-size: 100% 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  border: 3px solid red;
+  border: 3px solid #ec5242;
   width: 80%;
   margin: 10px auto;
-  height: 250px;
+  height: 300px;
+}
+
+/* .top-program-2a > *:hover {
+  background-color: #272a31;
+} */
+
+.top-program-2a:hover {
+  background-color: #272a31;
+  opacity: 0.5;
+}
+
+.top-program-2b {
+  background-image: url(../images/2021.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  border: 3px solid #ec5242;
+  width: 80%;
+  margin: 10px auto;
+  height: 300px;
+}
+
+.top-program-2b:hover {
+  background-color: #272a31;
+  opacity: 0.5;
 }
 
 .bottom-section-head {
@@ -358,6 +389,14 @@ header {
     width: 40%;
   }
 
+  .top-program-2a {
+    width: 40%;
+  }
+
+  .patners {
+    display: none;
+  }
+
   .middle-section-container {
     padding-left: 20px;
     width: 60%;
@@ -432,6 +471,7 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
+
   .foot,
   .foota,
   .footb {
@@ -439,10 +479,26 @@ footer {
     margin: 50px 5px 10px 5px;
   }
 
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: #272a31;
+    margin-bottom: -200px;
+    height: 180px;
+  }
+
+  .footer-text {
+    color: #d3d3d3;
+  }
+
   .footer-container {
     text-align: center;
     margin: 40px auto;
     width: 95%;
     margin-left: 60px;
+    background-color: #272a31;
   }
 }
